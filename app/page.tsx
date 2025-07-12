@@ -163,15 +163,12 @@ export default function Home() {
             </button>
           </div>
 
-          <div className="flex justify-center my-6">
-            <img src="/jne-tagline.png" alt="JNE Tagline" className="h-8" />
-          </div>
-        </form>
+           </AuthLayout>
 
         <div className="mt-6 text-center">
           <p className="text-xs text-gray-500 dark:text-gray-400">© 2025 JNE Cirebon Dashboard Shipment. All rights reserved.</p>
         </div>
       </div>
-    </AuthLayout>
+   
   );
 }

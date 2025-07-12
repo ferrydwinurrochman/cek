@@ -163,6 +163,8 @@ export default function Home() {
             </button>
           </div>
 
+          <div className="flex justify-center my-6">
+            <img src="/jne-tagline.png" alt="JNE Tagline" className="h-8" />
           </div>
         </form>
 

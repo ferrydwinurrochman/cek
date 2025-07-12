@@ -163,12 +163,13 @@ export default function Home() {
             </button>
           </div>
 
-           </AuthLayout>
+          </div>
+        </form>
 
         <div className="mt-6 text-center">
           <p className="text-xs text-gray-500 dark:text-gray-400">© 2025 JNE Cirebon Dashboard Shipment. All rights reserved.</p>
         </div>
       </div>
-   
+    </AuthLayout>
   );
 }
